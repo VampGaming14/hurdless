@@ -11,10 +11,10 @@ var form, player, game;
 var cars, car1, car2, car3, car4;
 
 function preload(){
-  car1IMG = loadImage("images/car1.png");
-  car2IMG = loadImage("images/car2.png");
-  car3IMG = loadImage("images/car3.png");
-  car4IMG = loadImage("images/car4.png");
+  car1IMG = loadImage("images/mario3.png");
+  car2IMG = loadImage("images/mario2.png");
+  car3IMG = loadImage("images/mario1.png");
+  car4IMG = loadImage("images/mario.png");
   trackIMG = loadImage("images/track.jpg");
 }
 
